@@ -9,11 +9,11 @@ function InfoCard() {
       tier: "INICIO",
       price: { monthly: "Gratis", annual: "Gratis" },
       features: [
-        "1 proyecto activo",
+        "1 proyecto",
         "100 MB de almacenamiento",
         "Soporte por email",
       ],
-      description: "Ideal para probar la plataforma sin compromiso.",
+      description: "Para probar la plataforma",
       highlighted: false,
       popular: false,
     },
@@ -24,9 +24,8 @@ function InfoCard() {
         "10 proyectos activos",
         "5 GB de almacenamiento",
         "Soporte prioritario",
-        "Analíticas avanzadas",
       ],
-      description: "Para profesionales que necesitan más poder.",
+      description: "Para profesionales",
       highlighted: true,
       popular: true,
     },
@@ -37,10 +36,8 @@ function InfoCard() {
         "Proyectos ilimitados",
         "50 GB de almacenamiento",
         "Soporte 24/7",
-        "API completa",
-        "Integraciones premium",
       ],
-      description: "Para equipos que buscan escalar.",
+      description: "Para equipos",
       highlighted: false,
       popular: false,
     },
@@ -50,11 +47,9 @@ function InfoCard() {
       features: [
         "Todo en Business",
         "Almacenamiento ilimitado",
-        "Manager dedicado",
-        "SLA garantizado",
-        "Onboarding personalizado",
+        "Manager dedicado"
       ],
-      description: "Solución completa para grandes empresas.",
+      description: "Para grandes empresas.",
       highlighted: false,
       popular: false,
     },
@@ -67,7 +62,7 @@ function InfoCard() {
           Elige tu plan
         </h2>
         <p className="text-gray-500 mb-6 max-w-md mx-auto">
-          Selecciona el plan que mejor se adapte a tus necesidades.
+          Selecciona el plan .
         </p>
         <div className="inline-flex rounded-lg border-2 border-indigo-500 overflow-hidden">
           <button

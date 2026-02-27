@@ -26,7 +26,7 @@ function Footer() {
             <span className="font-bold text-gray-900">PricingApp</span>
           </div>
           <p className="text-sm text-gray-400 text-center">
-            © 2025 PricingApp — Todos los derechos reservados.
+            DEAAAHHH
           </p>
           <div className="flex items-center gap-3">
             {socialIcons.map((social, i) => (
